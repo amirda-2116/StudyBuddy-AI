@@ -1,4 +1,4 @@
-STUDYBUDDY AI
+# STUDYBUDDY AI
 
 StudyBuddy AI is a student-focused exam preparation project built to make studying from large PDFs more effective. While preparing for exams, students often struggle to decide what topics to focus on when faced with long notes or textbooks. This project aims to solve that problem using AI.
 
