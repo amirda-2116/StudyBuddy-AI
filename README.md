@@ -1,14 +1,14 @@
 # STUDYBUDDY AI
 
-StudyBuddy AI is a student-focused exam preparation project built to make studying from large PDFs more effective. While preparing for exams, students often struggle to decide what topics to focus on when faced with long notes or textbooks. This project aims to solve that problem using AI.
+StudyBuddy AI is a student-focused exam preparation project built to make studying from large PDFs more effective using AI.
 
-The system allows students to upload their notes or textbooks in PDF format. It uses a Retrieval-Augmented Generation (RAG) approach to retrieve relevant information directly from the uploaded content and then generates useful study material such as summaries, important questions, MCQs, and viva-style questions.
+Students upload PDFs, and the system uses a RAG approach to generate summaries, important questions, MCQs, and viva-style questions from the content.
 
 Students can ask doubts based on the uploaded PDF, and the AI answers using relevant content from the notes.
 
-The AI can act like an examiner by conducting mock quizzes or viva sessions. It evaluates student responses, assigns marks, and provides feedback, helping students understand their strengths and areas that need improvement.
+The AI acts like an examiner by conducting mock quizzes or viva sessions and providing marks and feedback to help students improve.
 
-This project was built as a learning-focused model to explore AI architecture, document-based retrieval, and how AI models can be used to support real-world education use cases.
+This project was built to apply AI concepts to a real problem faced by students during exam preparation.
 
 # KEY FEATURES
 - Upload PDFs (notes or textbooks)
