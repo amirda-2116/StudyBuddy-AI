@@ -1,7 +1,9 @@
 streamlit
 langchain
+langchain-text-splitters
 faiss-cpu
 sentence-transformers
 pypdf
 python-docx
 python-pptx
+groq
