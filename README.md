@@ -27,5 +27,5 @@ This project was built to apply AI concepts to a real problem faced by students 
 # TEAM MEMBERS
 - G.Amirdavarshini
 - Jaishree.A
-- Kavya.M
+- P.Kavya
 - Taruneka Sree.M
