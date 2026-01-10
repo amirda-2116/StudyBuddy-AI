@@ -22,6 +22,7 @@ This project was built to apply AI concepts to a real problem faced by students 
 - Streamlit
 - Retrieval-Augmented Generation (RAG)
 - Large Language Model (LLM)
+- Langchain
 
 # TEAM MEMBERS
 - G.Amirdavarshini
